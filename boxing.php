@@ -1,8 +1,8 @@
 {
-  "Version_update": "1.03",
+  "Version_update": "1.04",
   "Link_zip": "https://github.com/BiGTAD/alien/blob/main/01-03-65.zip?raw=true",
   "Password": "boxing88",
-  "Message": "BoxingVPN",
+  "Message": "BoxingVPN
 - Update 01/03/65 เซิร์ฟเวอร์ล่าสุด
   เพิ่มเซิฟเวอร์ TH 2 เซิฟเวอร์
 - รองรับ SIM DTAC/TRUE = NOPRO AIS = AISPLAY
