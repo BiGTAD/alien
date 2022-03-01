@@ -1,14 +1,12 @@
 {
-  "Version_update": "1.01",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/28-02-65.zip?raw=true",
+  "Version_update": "1.02",
+  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/01-03-65.zip?raw=true",
   "Password": "boxing88",
-  "Message": "BoxingVPN
-** แอพยังอยู่ในขั้นตอนของการทดลองบางไฟล์อาจจะยังไม่เสถียร **
-- Update 28/02/65 เซิร์ฟเวอร์ล่าสุด
+  "Message": "BoxingVPN"
+- Update 01/01/65 เซิร์ฟเวอร์ล่าสุด
+  เพิ่มเซิฟเวอร์ TH 2 เซิฟเวอร์
 - รองรับ SIM DTAC/TRUE = NOPRO AIS = AISPLAY
-- เพิ่มเซิฟเวอร์ SG/IN/US FREE+VIP
-- ไฟล์ VIPFREE = เว็บสมัครบัญชีฟรี
-  ไฟล์ VIP = บัญชีเซิฟเช่าแจกฟรี
+- เซิฟเวอร์ TH/SG/IN/US FREE+VIP
 - การอัพเดทไฟล์ทุกครั้งต้องมีอินเทอร์เน็ตในการอัพเดท
 
 *** ผู้ดูแลระบบ BOXINGVPN®
