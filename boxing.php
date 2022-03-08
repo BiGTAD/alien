@@ -1,18 +1,14 @@
 {
-  "Version_update": "1.1",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/03-03-65.zip?raw=true",
+  "Version_update": "1.2",
+  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/08-03-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
-- Update 01/03/65 เซิร์ฟเวอร์ล่าสุด
-  เพิ่มเซิฟเวอร์ THGAME 2 เซิฟเวอร์
-IN 1 เซิร์ฟเวอร์ ทั่วไป+ดาวน์โหลด
-US 1 เซิฟเวอร์ ทั่วไป+ดาวน์โหลด
+- Update 08/03/65 เซิร์ฟเวอร์ล่าสุด
+  เพิ่มเซิฟเวอร์ THGAME 4 เซิฟเวอร์
 SG 4 เซิฟเวอร์ ทั่วไป+ดาวน์โหลด
-TH 2 เซิฟเวอร์ ทั่วไป+ดาวน์โหลด
-THGAME 2 เซิฟเวอร์ ทั่วไป+เล่นเกมส์ 
+THGAME 4 เซิฟเวอร์ ทั่วไป+เล่นเกมส์ 
   **ห้ามใช้ดาวน์โหลด
 - รองรับ SIM DTAC/TRUE = NOPRO AIS = AISPLAY
-- เซิฟเวอร์ TH/SG/IN/US FREE+VIP
 - การอัพเดทไฟล์ทุกครั้งต้องมีอินเทอร์เน็ตในการอัพเดท
 
 *** ผู้ดูแลระบบ BOXINGVPN®
