@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.5",
+  "Version_update": "1.6",
   "Link_zip": "https://raw.githubusercontent.com/BiGTAD/alien/main/15-03-65.zip",
   "Password": "boxing88",
   "Message": "BoxingVPN
