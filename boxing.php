@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.5",
+  "Version_update": "1.4",
   "Link_zip": "https://raw.githubusercontent.com/BiGTAD/alien/main/14-03-65.zip",
   "Password": "boxing88",
   "Message": "BoxingVPN
@@ -13,4 +13,5 @@ Update 14/03/65 เซิร์ฟเวอร์ล่าสุด
 
 - DTAC = NOPRO
 - TRUE = NOPRO
-- AIS = AISPLAY"}
+- AIS = AISPLAY 
+"}
