@@ -1,6 +1,6 @@
 {
   "Version_update": "1.5",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/14-03-65.zip?raw=true",
+  "Link_zip": "https://raw.githubusercontent.com/BiGTAD/alien/main/14-03-65.zip",
   "Password": "boxing88",
   "Message": "BoxingVPN
 Update 14/03/65 เซิร์ฟเวอร์ล่าสุด
