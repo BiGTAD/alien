@@ -1,10 +1,10 @@
 {
-  "Version_update": "1.4",
+  "Version_update": "1.9",
   "Link_zip": "https://github.com/BiGTAD/alien/blob/main/14-03-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
 
-  Update 13/03/65 เซิร์ฟเวอร์ล่าสุด
+  Update 14/03/65 เซิร์ฟเวอร์ล่าสุด
 - เพิ่มเซิฟ TH 2 เซิฟเวอร์
 - ปิดเซิฟเวอร์ SG ชั่วคราว
 
