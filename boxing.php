@@ -13,4 +13,4 @@ Update 14/03/65 เซิร์ฟเวอร์ล่าสุด
 
 - DTAC = NOPRO
 - TRUE = NOPRO
-- AIS = AISPLAY
+- AIS = AISPLAY"}
