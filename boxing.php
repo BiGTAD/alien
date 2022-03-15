@@ -1,9 +1,9 @@
 {
-  "Version_update": "2.0",
+  "Version_update": "1.9",
   "Link_zip": "https://github.com/BiGTAD/alien/blob/main/absggogo.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
-📢 Update 16/03/65
+📢 Update 17/03/65
 - เพิ่มเซิฟ SG OVH 3 เซิฟเวอร์
 - เพิ่มเซิฟ SG DO 9 เซิฟเวอร์
 
