@@ -1,6 +1,6 @@
 {
   "Version_update": "1.9",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/sggogo.zip?raw=true",
+  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/absggogo.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
 📢 Update 16/03/65
