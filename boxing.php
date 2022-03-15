@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.9",
+  "Version_update": "1.10",
   "Link_zip": "https://github.com/BiGTAD/alien/blob/main/absggogo.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
