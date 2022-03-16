@@ -1,6 +1,6 @@
 {
-  "Version_update": "1.11",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/17-03-65.zip?raw=true",
+  "Version_update": "1.12",
+  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/17-03-65-02.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
 📢 Update 17/03/65
