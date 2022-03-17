@@ -4,7 +4,7 @@
   "Password": "boxing88",
   "Message": "BoxingVPN
 📢 Update 18/03/65
-- แก้ไขเซิฟ THGAME ให้แรงขึ้น
+- แก้ไขเซิฟ THGAME
 
 🚫 อ่านละเอียดก่อนใช้งาน
 - SG OVH 3 เซิฟเวอร์ สำหรับโหลด
