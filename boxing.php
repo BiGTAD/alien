@@ -1,9 +1,9 @@
 {
-  "Version_update": "1.13",
+  "Version_update": "1.12",
   "Link_zip": "https://github.com/BiGTAD/alien/blob/main/18-03-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
-📢 Update 17/03/65
+📢 Update 18/03/65
 - แก้ไขเซิฟ THGAME ให้แรงขึ้น
 
 🚫 อ่านละเอียดก่อนใช้งาน
