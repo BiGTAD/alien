@@ -1,12 +1,10 @@
 {
-  "Version_update": "1.19",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/05-04-65.zip?raw=true",
+  "Version_update": "1.20",
+  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/09-04-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
-📢 Update 05/04/65
-- เพิ่มไฟล์ THIDC 2 เซิฟเวอร์
-- เพิ่มไฟล์ SG DO 4 เซิฟเวอร์
-- ลบเซิฟ THGAME
+📢 Update 09/04/65
+- แก้ไข TH CSL เน็ตไม่วิ่ง
 
 🚫 อ่านละเอียดก่อนใช้งาน
 - SG OVH 4 เซิฟเวอร์ สำหรับทั่วไป
