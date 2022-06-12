@@ -1,9 +1,9 @@
 {
-  "Version_update": "1.7",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/12-06-65.zip?raw=true",
+  "Version_update": "1.8",
+  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/13-06-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
-📢 Update 12/06/65
+📢 Update 13/06/65
 - ลบเซิฟเวอร์ที่ใช้งานไม่ได้
 - เพิ่มเซิฟเวอร์ SG DO 4 เซิฟเวอร์
 
