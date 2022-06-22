@@ -1,9 +1,12 @@
 {
-  "Version_update": "2.0",
-  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/bx18-06-65.zip?raw=true",
+  "Version_update": "2.1",
+  "Link_zip": "https://github.com/BiGTAD/alien/blob/main/bx22-06-65.zip?raw=true",
   "Password": "boxing88",
   "Message": "BoxingVPN
-📢 Update 18/06/65
+** ย้ายแอพไปที่ StellaVPN **
+** โหลดได้ที่ Play Store **
+
+📢 Update 22/06/65
 - ลบเซิฟเวอร์ที่ใช้งานไม่ได้
 
 🚫 อ่านละเอียดก่อนใช้งาน
