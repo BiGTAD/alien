@@ -1,11 +1,7 @@
 {
-  "Version_update": "2.5",
+  "Version_update": "2.6",
   "Link_zip": "",
   "Password": "boxing88",
-  "Message": "BoxingVPN
-** เซิฟเวอร์ทั้งหมดจะย้ายไปที่ **
-** แอพ StellaVPN **
-** โหลดได้ที่ Play Store **
-
-ขอบคุณทุกการสนับสนุนครับ
+  "Message": "ปิดการให้บริการ
+** ขอบคุณทุกการสนับสนุนครับ **
 "}
