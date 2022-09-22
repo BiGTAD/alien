@@ -1,7 +1,7 @@
 {
   "Version_update": "2.6",
   "Link_zip": "",
-  "Password": "boxing88",
+  "Password": "",
   "Message": "ปิดการให้บริการ
 ** ขอบคุณทุกการสนับสนุนครับ **
 "}
